@@ -1,4 +1,4 @@
-Here is the full and complete code with the exact sections, social links, tech skill badges, and formatting seen in that layout, customized completely for you:
+welcome to mr wakanda’s portfolio 
 # <p align="center">Hi 👋, I'm Nurdin</p>
 
 ### <p align="center">Full Stack Software Developer</p>
