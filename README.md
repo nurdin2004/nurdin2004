@@ -12,7 +12,7 @@ welcome to mr wakanda’s portfolio
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/sohouf__hillow">
+  <a href="https://instagram.com/wakanda__hillow">
     <img src="https://img.shields.io/badge/FOLLOW-@sohouf__hillow-grey?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow Instagram"/>
   </a>
 </p>
